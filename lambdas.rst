@@ -1,18 +1,18 @@
 Lambdas
 -------
 
-Lambdas are one line functions. They are also known as anonymous
-functions in some other languages. You might want to use lambdas when
-you don't want to use a function twice in a program. They are just like
-normal functions and even behave like them.
+Lmabdas são funções de uma única linha. Elas também são conhecidas como 
+funções anônimas em outras linguagens. Você provavelmente irá usar lambda
+para evitar utilizar uma mesma função duas vezes em um programa. Elas são como 
+uma função normal e se comportam como uma função normal.
 
-**Blueprint**
+**Assinatura**
 
 .. code:: python
 
     lambda argument: manipulate(argument)
 
-**Example**
+**Exemplo**
 
 .. code:: python
 
@@ -21,10 +21,10 @@ normal functions and even behave like them.
     print(add(3, 5))
     # Output: 8
 
-Here are a few useful use cases for lambdas and just a few way in which
-they are used in the wild:
+Aqui estão alguns casos de uso de lambdas e alguns jeitos em que elas podem
+ser utilizadas:
 
-**List sorting**
+**Ordenação de Listas**
 
 .. code:: python
 
@@ -34,7 +34,7 @@ they are used in the wild:
     print(a)
     # Output: [(13, -3), (4, 1), (1, 2), (9, 10)]
 
-**Parallel sorting of lists**
+**Ordenação Paralela de Listas**
 
 .. code:: python
 
