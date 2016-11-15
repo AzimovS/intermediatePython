@@ -1,7 +1,7 @@
 Lambdas
 -------
 
-Lmabdas são funções de uma única linha. Elas também são conhecidas como 
+Lambdas são funções de uma única linha. Elas também são conhecidas como 
 funções anônimas em outras linguagens. Você provavelmente irá usar lambda
 para evitar utilizar uma mesma função duas vezes em um programa. Elas são como 
 uma função normal e se comportam como uma função normal.
